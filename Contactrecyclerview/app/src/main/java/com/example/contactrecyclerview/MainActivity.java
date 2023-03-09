@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        contact c1 = new contact("Neha","9819997544");
+        contact c1 = new contact("Neha","9819789544");
         contact c2 = new contact("Nidhi","xxxxxxxxxx");
         contact c3 = new contact("Prashant","9987862500");
         contact c4 = new contact("Afraz","9967108919");
